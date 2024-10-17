@@ -1,0 +1,8 @@
+{
+  "main": "atti-kbot.js",
+  "option": {
+    "apiLevel": 2,
+    "useConsoleApi": false,
+    "useBabel": false
+  }
+}
